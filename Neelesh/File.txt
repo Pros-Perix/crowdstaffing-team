@@ -1,0 +1,19 @@
+clear – clear screen
+ls – list files and directories
+cp – copy files (work in progress)
+rm – remove files and directories
+mv – rename or move files and directories to another location
+cd – change directory
+pwd – confirm current directory
+ln – make links and symlinks to files and directories
+mkdir – make new directory
+rmdir – remove directories in Unix
+ps – list processes
+top – show tasks and system status
+kill – kill a process (stop application running)
+whoami – show your username
+id – print user identity
+groups – show which groups user belongs to
+passwd – change user password
+who – find out who is logged into the system
+last – show history of logins into the system
