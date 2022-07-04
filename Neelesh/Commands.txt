@@ -7,7 +7,7 @@ cd – change directory
 pwd – confirm current directory
 ln – make links and symlinks to files and directories
 mkdir – make new directory
-rmdir – remove directories in Unix
+rmdir – remove directories in Unix.
 ps – list processes
 top – show tasks and system status
 kill – kill a process (stop application running)
