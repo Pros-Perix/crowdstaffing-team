@@ -1,2 +1,0 @@
-# crowdstaffing-team
-Crowdstaffing Team
