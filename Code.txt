@@ -1,0 +1,1 @@
+Code refers to the statements written in a programming language
